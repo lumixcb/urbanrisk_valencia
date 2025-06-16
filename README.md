@@ -35,7 +35,7 @@
 
 ## 📦 Estructura
 
-urbanrisk-valencia/
+urbanrisk_valencia/
 ├── data/
 ├── notebooks/
 ├── app/
@@ -60,8 +60,9 @@ urbanrisk-valencia/
 
 ## 👥 Autores
 
-- Luminita Ciobanu – [@lumixcb](https://github.com/lumixcb)
-- *(Aquí puedes añadir más miembros si es trabajo en grupo)*
+- Luminita Ciobanu Borinschi – [@lumixcb](https://github.com/lumixcb)
+- Javier Elena Navarro
+- Pau Amores Giner
 
 ---
 
